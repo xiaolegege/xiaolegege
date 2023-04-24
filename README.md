@@ -1,8 +1,11 @@
-### Hi there 👋
-<div align="center">
-  <img  src="https://github-readme-streak-stats.herokuapp.com?user=xiaolegege&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" />
-</div>
-![Dong Yuanwai's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaolegege&show_icons=true)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=xiaolegege&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+
+### 你好，世界 👋
+
+- :orange_book: Focusing on Swift & iOS
+- :hammer: Creator of applications and frameworks
+- :ram: Founder the ObjCCN
+- :meat_on_bone: Meat lover
 <!--
 **xiaolegege/xiaolegege** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
