@@ -2,9 +2,9 @@
 
 ### Hello,I'm xiaolegege 👋
 
-- :orange_book: Focusing on Swift & iOS
-- :hammer: Creator of applications and frameworks
-- :ram: Founder the ObjCCN
+- 🔭 I’m currently working on IT operation
+- 🌱 I’m currently learning python、shell
+- ⚡ Fun fact: div
 - :meat_on_bone: Meat lover
 <!--
 **xiaolegege/xiaolegege** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
